@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">gr1_dz8_3mesias_ulan_nav_argss</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name</string>
+    <string name="liga">Лига спроведливости</string>
+    <string name="Name">Имя героя</string>
+    <string name="name1">Лига спроведливости</string>
+    <string name="name3">имя Героя</string>
+</resources>
